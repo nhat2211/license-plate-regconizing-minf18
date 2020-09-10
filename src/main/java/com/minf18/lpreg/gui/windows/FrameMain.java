@@ -79,7 +79,7 @@ public class FrameMain extends JFrame {
         JMenuItem aboutItem = new JMenuItem();
         JMenuItem helpItem = new JMenuItem();
         setDefaultCloseOperation(WindowConstants.EXIT_ON_CLOSE);
-        setTitle("JavaANPR");
+        setTitle("LPRS MINF18");
         setResizable(false);
         recognitionLabel.setBackground(new Color(0, 0, 0));
         recognitionLabel.setFont(new Font("Arial", 0, 24));
